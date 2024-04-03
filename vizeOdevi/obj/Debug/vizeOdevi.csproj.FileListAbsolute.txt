@@ -1,0 +1,16 @@
+C:\Users\umita\OneDrive\Masaüstü\C# görsel programlama\vizeOdevi\obj\Debug\vizeOdevi.csproj.AssemblyReference.cache
+C:\Users\umita\OneDrive\Masaüstü\C# görsel programlama\vizeOdevi\obj\Debug\vizeOdevi.MainForm.resources
+C:\Users\umita\OneDrive\Masaüstü\C# görsel programlama\vizeOdevi\obj\Debug\vizeOdevi.Properties.Resources.resources
+C:\Users\umita\OneDrive\Masaüstü\C# görsel programlama\vizeOdevi\obj\Debug\vizeOdevi.UyeForm.resources
+C:\Users\umita\OneDrive\Masaüstü\C# görsel programlama\vizeOdevi\obj\Debug\vizeOdevi.csproj.GenerateResource.cache
+C:\Users\umita\OneDrive\Masaüstü\C# görsel programlama\vizeOdevi\obj\Debug\vizeOdevi.csproj.CoreCompileInputs.cache
+C:\Users\umita\OneDrive\Masaüstü\C# görsel programlama\vizeOdevi\bin\Debug\vizeOdevi.exe.config
+C:\Users\umita\OneDrive\Masaüstü\C# görsel programlama\vizeOdevi\bin\Debug\vizeOdevi.exe
+C:\Users\umita\OneDrive\Masaüstü\C# görsel programlama\vizeOdevi\bin\Debug\vizeOdevi.pdb
+C:\Users\umita\OneDrive\Masaüstü\C# görsel programlama\vizeOdevi\obj\Debug\vizeOdevi.exe
+C:\Users\umita\OneDrive\Masaüstü\C# görsel programlama\vizeOdevi\obj\Debug\vizeOdevi.pdb
+C:\Users\umita\OneDrive\Masaüstü\C# görsel programlama\vizeOdevi\obj\Debug\vizeOdevi.KitapForm.resources
+C:\Users\umita\OneDrive\Masaüstü\C# görsel programlama\vizeOdevi\obj\Debug\vizeOdevi.Kitaplik.resources
+C:\Users\umita\OneDrive\Masaüstü\C# görsel programlama\vizeOdevi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\umita\OneDrive\Masaüstü\C# görsel programlama\vizeOdevi\bin\Debug\Newtonsoft.Json.xml
+C:\Users\umita\OneDrive\Masaüstü\C# görsel programlama\vizeOdevi\obj\Debug\vizeOdevi.csproj.Up2Date
